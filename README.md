@@ -80,7 +80,7 @@ $ echo "Build something awesome!"
 
 <div align="center"><a href="https://github.com/tuhin118">
 <img src="https://img.shields.io/badge/GITHUB-FOLLOW-00FF99?style=for-the-badge&logo=github&logoColor=white&labelColor=050812" alt="GitHub profile"/>
-</a><a href="https://vm.tiktok.com/ZS9UsmDJtcQkd-rtA5h/">
+</a><a href="https://TikTok.com/@error_game_ar/">
 <img src="https://img.shields.io/badge/TIKTOK-FOLLOW-FF0050?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=050812" alt="TikTok profile"/>
 </a><br/><br/>
 
