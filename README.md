@@ -81,8 +81,9 @@ $ echo "Build something awesome!"
 <div align="center"><a href="https://github.com/tuhin118">
 <img src="https://img.shields.io/badge/GITHUB-FOLLOW-00FF99?style=for-the-badge&logo=github&logoColor=white&labelColor=050812" alt="GitHub profile"/>
 </a><a href="https://www.tiktok.com/@error_game_ar?_r=1&_t=ZS-9Ajhk53Usu0/">
-<img src="https://img.shields.io/badge/TIKTOK-FOLLOW-FF0050?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=050812" alt="TikTok profile"/>
-</a><br/><br/>
+<a href="https://www.tiktok.com/@error_game_ar" target="_blank">
+  <img src="https://img.shields.io/badge/TIKTOK-FOLLOW-FF0050?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=050812" alt="TikTok profile"/>
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=tuhin118&style=for-the-badge&color=00ff99&label=PROFILE+VISITS" alt="Profile visitor counter"/><br/><br/>
 
